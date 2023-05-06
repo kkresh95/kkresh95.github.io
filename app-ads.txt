@@ -264,6 +264,7 @@ triplelift.com,12908,RESELLER,6c33edb13117fd86
 sharethrough.com,ZqrIAHsE,RESELLER,d53b998a7bd4ecd2
 #Unity
 unity3d.com, 1004715, RESELLER, 96cabb5fbdde37a7
+unity.com, 1347870, DIRECT, 96cabb5fbdde37a7
 telaria.com, rwd19-1004715, RESELLER, 1a4e959a1b50034a
 tremorhub.com, rwd19-1004715, RESELLER, 1a4e959a1b50034a
 loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
