@@ -1708,3 +1708,31 @@ appnexus.com, 1789, RESELLER, f5ab79cb980f11d1
 adform.com, 2423, RESELLER, 9f5210a2f0999e32
 appnexus.com, 14256, RESELLER, f5ab79cb980f11d1
 appnexus.com, 7491, RESELLER, f5ab79cb980f11d1
+chartboost.com, 64010f3496d621087f205a76, DIRECT
+bidmachine.io, 98, RESELLER
+mobfox.com, 82593, RESELLER, 5529a3d1f59865be
+sonobi.com, 442a7bfdb0, RESELLER, d1a215d9eb5aee9e
+rhythmone.com, 1059622079, RESELLER, a670c89d4a324e47
+contextweb.com, 560606, RESELLER, 89ff185a4c4e857c
+uis.mobfox.com, 82593, RESELLER, 5529a3d1f59865be
+xad.com, 589, RESELLER, 81cbf0a75a5e0e9a
+e-planning.net, bce51a8513581788, RESELLER, c1ba615865ed87b2
+bidmachine.io, 187, RESELLER
+bidmachine.io, 195, RESELLER
+yahoo.com, 59875, RESELLER, e1a5b5b6e3255540
+smartyads.com, 100025, RESELLER, fd2bde0ff2e62c5d
+yahoo.com, 57872, RESELLER, e1a5b5b6e3255540
+olaex.biz, 100131, RESELLER
+adview.com, 33633363, RESELLER, 1b2cc038a11ea319
+loopme.com, 11446, RESELLER, 6c8d5f95897a5a3b
+yeahmobi.com, 5135302, RESELLER
+advlion.com, 584, RESELLER
+markappmedia.site, 322972, RESELLER
+freewheel.tv, 1568906, RESELLER
+freewheel.tv, 1568907, RESELLER
+adform.com, 2904, RESELLER
+orangeclickmedia.com, hgu2t0onqs874x95, RESELLER
+yieldmo.com, 2807970144171533194, RESELLER
+google.com, pub-6346866704322274, RESELLER, f08c47fec0942fa0
+google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0
+google.com, pub-5717092533913515, RESELLER, f08c47fec0942fa0
