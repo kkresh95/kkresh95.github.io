@@ -5,9 +5,9 @@ appodeal.com, 6256, DIRECT
 bidmachine.io, 6256, DIRECT
 #AdMob
 #Copy YOUR_ADMOB_APP_ID entry from your Admob dashboard
-google.com, pub-4272971530084173, DIRECT, f08c47fec0942fa0
+google.com, pub-3777883995823349, DIRECT, f08c47fec0942fa0
 #Notsy
-google.com, pub-4272971530084173, RESELLER, f08c47fec0942fa0
+google.com, pub-3777883995823349, RESELLER, f08c47fec0942fa0
 rubiconproject.com, 23740, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 17352, RESELLER, 0bfd66d529a55807
 uis.mobfox.com, 1729, RESELLER, 5529a3d1f59865be
