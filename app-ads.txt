@@ -1744,3 +1744,9 @@ pubmatic.com, 158154, RESELLER, 5d62403b186f2ace
 xandr.com, 13799, RESELLER
 media.net, 8CUD06Z68, RESELLER
 pubmatic.com, 160113, RESELLER, 5d62403b186f2ace
+#MyTarget
+target.my.com, 13633586, DIRECT
+bid-matrix.com, 13633586, DIRECT
+admixer.com, 13633586, RESELLER
+https://bigo.sg, 13633586, DIRECT
+soloway.ru, 13633586, DIRECT
