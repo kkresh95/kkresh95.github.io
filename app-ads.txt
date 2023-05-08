@@ -31,6 +31,8 @@ contextweb.com, 562757, RESELLER, 89ff185a4c4e857c
 #Facebook
 #Replace the Business ID below with your Facebook Business ID
 facebook.com, 2780005048963229, DIRECT, c3e20eee3f780d68
+facebook.com, 1692215790981234, DIRECT, c3e20eee3f780d68
+facebook.com, 240183225329807, DIRECT, c3e20eee3f780d68
 #AdColony
 adcolony.com, fcaa373cac67c9f927aa914013b8346e, RESELLER, 1ad675c9de6b5176
 #Applovin
