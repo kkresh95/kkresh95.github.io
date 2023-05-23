@@ -1948,6 +1948,7 @@ bigo.sg, 109, RESELLER
 pubmatic.com, 162588, RESELLER, 5d62403b186f2ace
 loopme.com, 11463, RESELLER, 6c8d5f95897a5a3b
 ignitemediatech.com, pub_61351, RESELLER
+
 outbrain.com, 009003959a5821f830a09d0bc562b43c62, RESELLER
 pangleglobal.com, 45779, RESELLER
 yandex.com, 63904735, RESELLER
@@ -1980,3 +1981,13 @@ gothamads.com, 1236, RESELLER, d9c86e5dec870222
 e-planning.net, 9522026ef023606d, RESELLER, c1ba615865ed87b2
 conversantmedia.com, 100519, RESELLER, 03113cd04947736d
 admanmedia.com, 2050, RESELLER
+yeahmobi.com, 5135284, RESELLER
+lijit.com, 411121, RESELLER, fafdf38b16bf6b2b
+admixer.net, f6790c61-b9ce-49b0-b809-059710d60dfd, RESELLER
+imds.tv, 82578, RESELLER, ae6c32151e71f19d
+inmobi.com, 625b6b37c3a340938a8ff02bc83b5a04, RESELLER, 83e75a7ae333ca9d
+sharethrough.com, 3blZyYks, RESELLER, d53b998a7bd4ecd2
+lunamedia.io, 193bca549318aed0434226d4d73e13f3, RESELLER, 524ecb396915caaf
+outbrain.com, 002d7f7ba0bd74452f2b155d0dfb5cd6c8, RESELLER
+media.net, 8cu1cp7pm, RESELLER
+pubwise.io, 52324626, RESELLER, c327c91a93a7cdd3
