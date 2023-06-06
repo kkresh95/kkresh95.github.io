@@ -1948,7 +1948,6 @@ bigo.sg, 109, RESELLER
 pubmatic.com, 162588, RESELLER, 5d62403b186f2ace
 loopme.com, 11463, RESELLER, 6c8d5f95897a5a3b
 ignitemediatech.com, pub_61351, RESELLER
-
 outbrain.com, 009003959a5821f830a09d0bc562b43c62, RESELLER
 pangleglobal.com, 45779, RESELLER
 yandex.com, 63904735, RESELLER
@@ -1991,3 +1990,5 @@ lunamedia.io, 193bca549318aed0434226d4d73e13f3, RESELLER, 524ecb396915caaf
 outbrain.com, 002d7f7ba0bd74452f2b155d0dfb5cd6c8, RESELLER
 media.net, 8cu1cp7pm, RESELLER
 pubwise.io, 52324626, RESELLER, c327c91a93a7cdd3
+#IronSource2
+ironsrc.com, 406742, Direct
