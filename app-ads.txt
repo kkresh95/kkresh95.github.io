@@ -1992,3 +1992,5 @@ media.net, 8cu1cp7pm, RESELLER
 pubwise.io, 52324626, RESELLER, c327c91a93a7cdd3
 #IronSource2
 ironsrc.com, 406742, Direct
+vungle.com, 63d6f19a48043f001454b6c6, DIRECT, c107d686becd2d77
+inmobi.com, c036bf817a7848e1bd669b838b2cd2ce, RESELLER, 83e75a7ae333ca9d 
