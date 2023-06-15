@@ -2262,5 +2262,5 @@ yeahmobi.com, 5135224, RESELLER
 yeahmobi.com, 5135284, RESELLER
 zeta.com, 998, RESELLER
 zoomd.com, 88478941, RESELLER
-
-
+vidoomy.com, 4930225, RESELLER
+waardex.com, 103777, RESELLER
