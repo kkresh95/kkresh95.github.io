@@ -2264,3 +2264,23 @@ zeta.com, 998, RESELLER
 zoomd.com, 88478941, RESELLER
 vidoomy.com, 4930225, RESELLER
 waardex.com, 103777, RESELLER
+themediagrid.com, R28I9J, DIRECT, 35d5010d7789b49d
+pubmatic.com, 160492, RESELLER, 5d62403b186f2ace
+freewheel.tv, 1585279, RESELLER
+videoheroes.tv, 212581, RESELLER, 064bc410192443d8
+sonobi.com, c58cf86903, RESELLER, d1a215d9eb5aee9e
+conversantmedia.com, 100358, RESELLER, 03113cd04947736d
+startapp.com, wbe, RESELLER
+start.io, wbe, RESELLER
+admixer.net, 70590d13-5632-41d5-8a78-76bc239c528c, RESELLER
+bidence.com, 4a87393d59a18d4bbfb5326c5d98051a, RESELLER
+pubmatic.com, 163420, RESELLER, 5d62403b186f2ace
+loopme.com, 11605, RESELLER, 6c8d5f95897a5a3b
+Xapads.com, 155860, RESELLER
+betweendigital.com, 45117, RESELLER
+pubmatic.com, 162968, RESELLER, 5d62403b186f2ace
+pubnative.net, 1008379, RESELLER, d641df8625486a7b
+criteo.com, B-070302, RESELLER, 9fac4a4a87c2a44f
+rhebus.works, 3818520445, RESELLER
+smartstream.tv, 679, RESELLER
+contextweb.com, 563017, RESELLER, 89ff185a4c4e857c
