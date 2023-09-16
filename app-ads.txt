@@ -2301,3 +2301,7 @@ smartyads.com, 300023, RESELLER, fd2bde0ff2e62c5d
 consumable.com, 2001482, RESELLER, aefcd3d2f45b5070
 inmobi.com, ef083d721beb4c0f8776ced01e262c03, RESELLER, 83e75a7ae333ca9d
 admanmedia.com, 2045, RESELLER
+thunder-monetize.com, 4588767099, RESELLER
+opera.com, pub9598692093632, RESELLER, 55a0c5fd61378de3
+opera.com, pub9598682313984, RESELLER, 55a0c5fd61378de3
+smartadserver.com, 4762, RESELLER, 060d053dcf45cbf3
