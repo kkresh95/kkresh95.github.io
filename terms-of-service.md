@@ -1,4 +1,4 @@
-### End-User License Agreement
+### Terms of Service
 
 Updated at 29 September 2023.
 
@@ -35,13 +35,13 @@ The Application is licensed, not sold, to you by Simple Sandbox 2  for use stric
 
 Subject to the terms of this Agreement and, if applicable, those terms provided in the License Agreement, Simple Sandbox 2  grants you a limited, non-exclusive, perpetual, revocable, and non-transferable license to:
 
-# (a) download, install and use the Software on one (1) Computing Device per single user license that you have purchased and been granted. If you have multiple Computer Devices in which you wish to use the Software, you agree to acquire a license for the number of devices you intend to use;
+(a) download, install and use the Software on one (1) Computing Device per single user license that you have purchased and been granted. If you have multiple Computer Devices in which you wish to use the Software, you agree to acquire a license for the number of devices you intend to use;
 
-# (b) access, view, and use on such Computing Device the End User Provided Materials made available in or otherwise accessible through the Software, strictly in accordance with this Agreement, and any other terms and conditions applicable to such End User Provided Materials;
+(b) access, view, and use on such Computing Device the End User Provided Materials made available in or otherwise accessible through the Software, strictly in accordance with this Agreement, and any other terms and conditions applicable to such End User Provided Materials;
 
-# (c) install and use the trial version of the Software on any number of Computing Devices for a trial period of fifteen (15) unique days after installation.
+(c) install and use the trial version of the Software on any number of Computing Devices for a trial period of fifteen (15) unique days after installation.
 
-# (d) receive updates and new features that become available during the one (1) year period from the date on which you purchased the license to the Software.
+(d) receive updates and new features that become available during the one (1) year period from the date on which you purchased the license to the Software.
 
 
 ### Restrictions
