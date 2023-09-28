@@ -20,3 +20,4 @@ On this page are the games of our game studio
 ![alt tag](https://github.com/kkresh95/kkresh95.github.io/blob/master/unnamed%20(2).png?raw=true)​
 
 
+### privacy-policy - [LINK](https://kkresh95.github.io/privacy-policy)
