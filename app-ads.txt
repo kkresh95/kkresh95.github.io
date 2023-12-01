@@ -2378,3 +2378,32 @@ start.io, ope, RESELLER
 onetag.com, 82bad7d17eccf7c, RESELLER
 sharethrough.com, Bc6D1WHS, RESELLER, d53b998a7bd4ecd2
 lijit.com, 367217, RESELLER, fafdf38b16bf6b2b
+disqus.com, 626, RESELLER
+dauup.com, 34102, RESELLER
+dauup.com, 34101, RESELLER
+webeyemob.com, 80056, RESELLER
+themediagrid.com, XYIOA3, RESELLER, 35d5010d7789b49d
+videoheroes.tv, 212432, RESELLER, 064bc410192443d8
+saharmedia.net, 1683397, RESELLER
+outbrain.com, 00595a29fe0f0efa37cd675959d6128c78, RESELLER
+bold-win.com, 160, RESELLER, 71746737d0bab951
+smaato.com, 1100055204, RESELLER, 07bcf65f187117b4
+contextweb.com, 563125, RESELLER, 89ff185a4c4e857c
+adform.com, 3037, RESELLER, 9f5210a2f0999e32
+my-cast.tv, 9861, RESELLER
+smartadserver.com, 4695, RESELLER, 060d053dcf45cbf3
+contextweb.com, 563065, RESELLER, 89ff185a4c4e857c
+smartivi.ai, 3561, RESELLER
+thunder-monetize.com, 2297825074, RESELLER
+thunder-monetize.com, 3692155372, RESELLER
+thunder-monetize.com, 3905806597, RESELLER
+video.unrulymedia.com, 962111114, RESELLER
+unrulymedia.com, 962111114, RESELLER
+signifad.com, 2439531018, RESELLER
+alpecs.com, 5656395907, RESELLER
+connekt.ai, 7343318920, RESELLER
+houseofpubs.com, 3800226559, RESELLER
+pubmatic.com, 164146, RESELLER, 5d62403b186f2ace
+pubmatic.com, 163038, RESELLER, 5d62403b186f2ace
+themediagrid.com, 7MYRZ3, RESELLER, 35d5010d7789b49d
+criteo.com, B-072581, RESELLER, 9fac4a4a87c2a44f
