@@ -2561,3 +2561,4 @@ yahoo.com,59333,RESELLER,e1a5b5b6e3255540
 yahoo.com,59781,RESELLER,e1a5b5b6e3255540
 yeahmobi.com,107432,RESELLER
 yeahmobi.com,5135535,RESELLER
+ignitemediatech.com, pub_11112, RESELLER
