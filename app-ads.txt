@@ -2579,3 +2579,30 @@ sonobi.com,a85c5f6129,RESELLER,d1a215d9eb5aee9e
 unrulymedia.com,2464975885,RESELLER 
 ushareit.com,LCc6b8b1c8aca38e6f,DIRECT 
 yeahmobi.com,114122,RESELLER
+adform.com, 2742, RESELLER
+betweendigital.com, 45827, RESELLER
+bidease.com, bidease_seller_20, RESELLER
+contextweb.com, 159668, RESELLER, 5d62403b186f2ace
+improvedigital.com, 2414, RESELLER
+inmobi.com, 9e311c7a68e94888aac7fbb4272381e2, RESELLER
+kidoz.net, 14260, RESELLER, a109366414b7335e
+lijit.com, 503707, RESELLER, fafdf38b16bf6b2b
+loopme.com, 11635, RESELLER, 6c8d5f95897a5a3b
+lunamedia.io, 2fdb16a1-5025-4c41-9b17-e01e47ebc8b4, RESELLER, 524ecb396915caaf
+mars.media, 1010442, RESELLER
+pubmatic.com, 163476, RESELLER, 5d62403b186f2ace
+pubmatic.com, 164532, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 26184, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 26292, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 26386, RESELLER, 0bfd66d529a55807
+smaato.com, 1100055750, RESELLER, 07bcf65f187117b4
+smaato.com, 1100056144, RESELLER, 07bcf65f187117b4
+toponad.com, 165535463cfb70, RESELLER, 1d49fe424a1a456d
+tredio.io, 357a6fdf7642bf815a88822c447d9dc433546, RESELLER
+video.unrulymedia.com, 169764768, RESELLER
+video.unrulymedia.com, 392157850, RESELLER
+video.unrulymedia.com, 819070080, RESELLER
+vidoomy.com, 7646534, RESELLER
+xandr.com, 15769, RESELLER
+xandr.com, 15840, RESELLER
+zmaticoo.com, 5135195, RESELLER
