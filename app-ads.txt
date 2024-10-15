@@ -2606,3 +2606,44 @@ vidoomy.com, 7646534, RESELLER
 xandr.com, 15769, RESELLER
 xandr.com, 15840, RESELLER
 zmaticoo.com, 5135195, RESELLER
+33across.com,0015a00002egvRSAAY,RESELLER,bbea06d9c4d2853c
+adform.com,3083,RESELLER
+adform.com,3119,RESELLER,9f5210a2f0999e32
+betweendigital.com,43860,RESELLER
+betweendigital.com,45270,RESELLER
+caerulus.io,3320-72775,RESELLER
+equativ.com,5026,RESELLER,060d053dcf45cbf3
+freewheel.tv,1590601,RESELLER
+freewheel.tv,1590606,RESELLER
+growintech.co,2723d092b63885e0d7c260cc007e8b9d2393g,RESELLER,9d8dfe5c6b00fb37
+inmobi.com,12a9a79d60214a40a444a6103b81747c,RESELLER,83e75a7ae333ca9d
+kidoz.net,15127,RESELLER,a109366414b7335e
+lijit.com,488437,RESELLER,fafdf38b16bf6b2b
+loopme.com,11362,RESELLER,6c8d5f95897a5a3b
+loopme.com,9718,RESELLER,6c8d5f95897a5a3b
+onetag.com,8dd8de7f341d57e,RESELLER
+opera.com,pub4366595624320,RESELLER,55a0c5fd61378de3
+pubmatic.com,161162,RESELLER,5d62403b186f2ace
+pubmatic.com,161267,RESELLER,5d62403b186f2ace
+pubmatic.com,165117,RESELLER,5d62403b186f2ace
+rhebus.works,9176497567,RESELLER
+risecodes.com,662a26f1f3d42a00015ffbad,RESELLER
+rubiconproject.com,25978,RESELLER,0bfd66d529a55807
+sharethrough.com,XeKuhSkz,RESELLER,d53b998a7bd4ecd2a
+smartadserver.com,4284,RESELLER
+smartadserver.com,4569,RESELLER
+smartadserver.com,4865,RESELLER
+smartadserver.com,5026,RESELLER,060d053dcf45cbf3
+sonobi.com,a257177742,RESELLER,d1a215d9eb5aee9e
+sonobi.com,b43e9530e7,RESELLER,d1a215d9eb5aee9e
+sonobi.com,d2b13d1c36,RESELLER,d1a215d9eb5aee9e
+start.io,162328800,RESELLER
+themediagrid.com,DY1OVP,RESELLER,35d5010d7789b49d
+themediagrid.com,SYMTFD,RESELLER,35d5010d7789b49d
+video.unrulymedia.com,3855144660485329163,RESELLER
+video.unrulymedia.com,5336134699710583737,RESELLER
+video.unrulymedia.com,906352066,RESELLER
+yieldmo.com,2754490424016969782,RESELLER
+zetaglobal.net,757,RESELLER
+zetaglobal.net,998,RESELLER
+zmaticoo.com,5135224,RESELLER
