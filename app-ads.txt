@@ -10,8 +10,12 @@ google.com, pub-3777883995823349, DIRECT, f08c47fec0942fa0
 #BidMachine
 bidmachine.io, 6256, DIRECT
 
-#Replace the Business_ID below with your Meta Business ID
-facebook.com,Business_ID,RESELLER,c3e20eee3f780d68
+#Facebook
+#Replace the Business ID below with your Facebook Business ID
+facebook.com, 2780005048963229, DIRECT, c3e20eee3f780d68
+facebook.com, 1692215790981234, DIRECT, c3e20eee3f780d68
+facebook.com, 240183225329807, DIRECT, c3e20eee3f780d68
+facebook.com, 240183225329807, RESELLER, c3e20eee3f780d68 .
 
 #Add other networks if applicable
 #Resellers
