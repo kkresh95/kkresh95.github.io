@@ -17,6 +17,7 @@ appodeal.com, 6256, DIRECT
 #AdMob
 #Copy YOUR_ADMOB_APP_ID entry from your Admob dashboard MY ADMOB
 google.com, pub-3777883995823349, DIRECT, f08c47fec0942fa0
+google.com, pub-4650363928564096, DIRECT, f08c47fec0942fa0
 
 #BidMachine
 bidmachine.io, 6256, DIRECT
@@ -6408,6 +6409,7 @@ smaato.com, 1100057426, DIRECT, 07bcf65f187117b4
 advangelists.com, 9766527f2b5d3e95d4a733fcfb77bd7e, RESELLER, 60d26397ec060f98
 inmobi.com, 95ef2003a2c742db81a45303d6e4cf8b, RESELLER, 83e75a7ae333ca9d
 video.unrulymedia.com, 251620492, RESELLER
+
 
 
 
